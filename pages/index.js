@@ -62,7 +62,7 @@ export default function Home() {
 
             <div className="col-span-4 p-10 text-center bg-blue-400 shadow-md bg unded-md lg:col-span-1">
               <span className="text-7xl">{timeLeft['seconds']}</span>
-              <span className="block text-sm">Seconds</span>
+              <span className="block text-sm">econds</span>
             </div>
           </div>
           : <h2 className="text-4xl italic text-white">Ramadan Kareem!</h2>}
